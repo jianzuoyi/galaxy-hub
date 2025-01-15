@@ -40,6 +40,7 @@
                 "au",
                 "eu",
                 "us",
+                "cn",
                 "global"
             ],
             "all-eu": ["freiburg", "pasteur", "belgium", "ifb", "genouest", "erasmusmc", "elixir-it", "eu"]
@@ -50,6 +51,7 @@
             "us",
             "eu",
             "au",
+            "cn",
             "freiburg",
             "erasmusmc",
             "belgium",
@@ -66,6 +68,9 @@
             },
             "eu": {
                 "name": "Europe"
+            },
+            "cn": {
+                "name": "China"
             },
             "freiburg": {
                 "name": "Freiburg"

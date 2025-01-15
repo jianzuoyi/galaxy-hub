@@ -16,3 +16,4 @@ stderr.log
 stdout.log
 test.html
 /.yarn*
+env.sh

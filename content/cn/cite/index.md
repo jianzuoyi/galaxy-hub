@@ -11,4 +11,4 @@ title: Cite us
 
 ### 示例二
 
-> Heatmap were generated using Galaxy Chian (https://usegalaxy.cn/).
+> Heatmap were generated using Galaxy China (https://usegalaxy.cn/).

@@ -13,7 +13,7 @@ subtitle: The subdomains of the French Galaxy server
       <div class="text-center">
           <img src="/images/metabarcoding.png" alt="DNA" height="100">
           <br><br><br>
-          <a href="" target="_top" class="btn btn-primary">DNA数据分析</a>
+          <a href="dna.usegalaxy.cn" target="_top" class="btn btn-primary">DNA数据分析</a>
       </div>
     </div>
   </div>
@@ -24,7 +24,7 @@ subtitle: The subdomains of the French Galaxy server
       <div class="text-center">
         <img src="/images/covid19.png" alt="RNA" height="100">
         <br><br><br>
-        <a href="" target="_top" class="btn btn-primary">RNA数据分析</a>
+        <a href="rna.usegalaxy.cn" target="_top" class="btn btn-primary">RNA数据分析</a>
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@ subtitle: The subdomains of the French Galaxy server
       <div class="text-center">
         <img src="/images/proteore.png" alt="ProteORE" height="100">
         <br><br><br>
-        <a href="" target="_top" class="btn btn-primary">蛋白质数据分析</a>
+        <a href="protein.usegalaxy.cn" target="_top" class="btn btn-primary">蛋白质数据分析</a>
       </div>
     </div>
   </div>
